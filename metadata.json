@@ -1,5 +1,6 @@
 {
   "name": "Generator Soal Bahasa Arab MI",
   "description": "Aplikasi generator kisi-kisi dan soal untuk jenjang Madrasah Ibtidaiyah (MI) dengan output tabel terstruktur dan format Word.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
